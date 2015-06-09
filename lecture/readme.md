@@ -1,17 +1,20 @@
-# Prerequisites
-
-Include what students are assumed to know heading into this lecture.
-
 # Objectives
-
-Students will be able to:
-
-  * Insert *concrete* skills students will walk away with.
-  * Even better, write a lab/quiz in here that tests these skills
 
 Students will understand:
 
-  * Add high level concepts
+  * articulate the raison d'etre of git and VCS in general.
+  * initialize git to start monitoring a new project.
+  * demonstrate the difference between git's staging and unstaged index by changing multiple files but only commiting some and unstaging certain files.
+  * commit changed files to a git repository.
+  * create and change between git branches using a standard development workflow.
+  * checkout files and branches from their repository.
+  * merge branches, usually feature branches into the master or staging branch.
+  * rebase branches and describe the difference between branching and merging branches. 
+
+  * Part II
+    * local vs remote repos
+    * local vs remote branches
+    * pull requests locally vs remote
 
 # Script
 
